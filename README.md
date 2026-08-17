@@ -1,4 +1,7 @@
 # aishe-ai-literacy
+<p align="center">
+  <img src="aishe-cover.png" width="800">
+</p>
 A creative AI literacy project making artificial intelligence accessible to non-technical audiences through a fictional character, visual storytelling, and engaging short-form content.
 # AIshe — AI Literacy & Digital Awareness Project
 
