@@ -1,6 +1,6 @@
 # project-ai-literacy
 <p align="center">
-  <img src="cover.png" width="800">
+  <img src="cover 1.jpg" width="800">
 </p>
 A creative AI literacy project making artificial intelligence accessible to non-technical audiences through a fictional character, visual storytelling, and engaging short-form content.
 # Project — AI Literacy & Digital Awareness Project
